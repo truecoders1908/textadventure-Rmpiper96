@@ -1,0 +1,11 @@
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\bin\Debug\netcoreapp2.1\Trainin.deps.json
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\bin\Debug\netcoreapp2.1\Trainin.runtimeconfig.json
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\bin\Debug\netcoreapp2.1\Trainin.runtimeconfig.dev.json
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\bin\Debug\netcoreapp2.1\Trainin.dll
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\bin\Debug\netcoreapp2.1\Trainin.pdb
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\obj\Debug\netcoreapp2.1\Trainin.csprojAssemblyReference.cache
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\obj\Debug\netcoreapp2.1\Trainin.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\obj\Debug\netcoreapp2.1\Trainin.AssemblyInfoInputs.cache
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\obj\Debug\netcoreapp2.1\Trainin.AssemblyInfo.cs
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\obj\Debug\netcoreapp2.1\Trainin.dll
+C:\Users\Ryan Piper\source\repos\Trainin\Trainin\obj\Debug\netcoreapp2.1\Trainin.pdb
